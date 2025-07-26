@@ -1,4 +1,4 @@
-# RENM-DEV • Quiet Legacy Builder from the Cordilleras
+# Ren • Quiet Legacy Builder from the Cordilleras
 
 🌱 **Ethical Technologist • Healing Designer • Legacy Mentor**
 
@@ -23,6 +23,13 @@ Hi, I'm Renm—a creator rooted in the highlands of Baguio and Cordillera cultur
 - "Dagdag-bawas until mamuti ang buhok"
 - “If it breaks, it teaches. If it heals, it stays.”
 
+## 📜 Dev Highlights
+- Toblerone Error Saga - Do not consume Toblerone (chocolatey) during debugging
+- May cause delayed logic, broken installs, and unexplained laughter
+- Triggered memory leak during install
+- Forced emotional reinstall of Node.js
+- Now banned during debugging hours
+
 ## 🤝 Let’s Connect
 
 Whether you're remixing eBooks, mentoring quietly, or searching for healing UI—welcome. This repo’s a safe space for slow growth, deep reflection, and modular revolution.
@@ -33,5 +40,5 @@ Whether you're remixing eBooks, mentoring quietly, or searching for healing UI�
 
 Built with respect. Maintained with love. Empowered by Kamote Team-safe legacy coders from Baguio and beyond. 🧡
 
-// WARNING: Do not consume Toblerone during debugging
-// May cause delayed logic, broken installs, and unexplained laughter
+
+
