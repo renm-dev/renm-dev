@@ -32,5 +32,6 @@ Whether you're remixing eBooks, mentoring quietly, or searching for healing UI�
 > “Ang code ko, hindi laging malinis—but always written with care.”
 
 Built with respect. Maintained with love. Empowered by Kamote Team-safe legacy coders from Baguio and beyond. 🧡
-WARNING: Do not consume Toblerone during debugging
-May cause delayed logic, broken installs, and unexplained laughter
+
+// WARNING: Do not consume Toblerone during debugging
+// May cause delayed logic, broken installs, and unexplained laughter
